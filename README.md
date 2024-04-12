@@ -1,4 +1,4 @@
-# Actividad Diagnóstico
+.# Actividad Diagnóstico
 
 
 ### 1. ¿Qué lenguajes de programación a usado?
