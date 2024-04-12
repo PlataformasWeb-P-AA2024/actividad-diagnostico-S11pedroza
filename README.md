@@ -4,6 +4,7 @@
 ### 1. ¿Qué lenguajes de programación a usado?
 Java
 ### 2. ¿Qué comandos conoce de GIT?
+Ninguno
 ### 3. Ejemplifique el comando de Linux: mv
 ### 4. Ejemplifique el comando de Linux: cp
 ### 5. Ejemplifique el comando de Linux: mkdir
