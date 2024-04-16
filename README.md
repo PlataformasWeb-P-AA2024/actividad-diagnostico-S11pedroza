@@ -6,6 +6,7 @@ Java
 ### 2. ¿Qué comandos conoce de GIT?
 Ninguno
 ### 3. Ejemplifique el comando de Linux: mv
+sdfvgbh
 ### 4. Ejemplifique el comando de Linux: cp
 ### 5. Ejemplifique el comando de Linux: mkdir
 ### 6. Ejemplifique el comando de Linux: ls
